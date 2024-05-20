@@ -10,7 +10,10 @@ This is a simple calculator application built using Python's Tkinter library. It
 - Responsive layout for different screen sizes
   
 ## Screenshots
-[Include screenshots here if desired]
+
+![Screenshot 1](/images/calc1.png) ![Screenshot 2](/images/calc2.png)
+
+![Screenshot 3](/images/calc3.png)
 
 ## Requirements
 
@@ -21,15 +24,15 @@ This is a simple calculator application built using Python's Tkinter library. It
 
 1. Clone the repository to your local machine:
 
-***git clone https://github.com/your-username/calculator.git***
+    ***git clone https://github.com/your-username/calculator.git***
 
 2. Navigate to the project directory:
 
-***cd calculator***
+    ***cd calculator***
 
 3. Run the application:
 
-***python calculator.py***
+    ***python calculator.py***
 
 ## Usage
 - Enter numbers and operators using the buttons provided.
